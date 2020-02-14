@@ -1,6 +1,6 @@
 ---
-layout: about
-title: About this website
+layout: page
+title: About 
 custom-footer: site-footer-about
 ---
 

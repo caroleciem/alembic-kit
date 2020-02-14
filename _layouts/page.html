@@ -18,4 +18,6 @@ layout: default
 
 </main>
 
-{% include site-footer.html %}
+
+
+{% if page.title == "About" %}{% include site-footer-about.html %}{% else %}{% include site-footer.html %}{% endif %}
